@@ -1,0 +1,25 @@
+{
+  "name": "amalitech-comsessapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodEZ47/amalitech-comsessapp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/CodEZ47/amalitech-comsessapp/issues"
+  },
+  "homepage": "https://github.com/CodEZ47/amalitech-comsessapp#readme"
+}
